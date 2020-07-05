@@ -1,0 +1,18 @@
+Modules:
+
+    Main windows: contains option to make improvements, view the fighters, or fight
+
+    Team: contains the fighters during a fight
+
+    Fighter: could be a computer or human one
+
+    Action: could be to help friends, or damage enemies. Could be to 1, or all
+
+    Fighting Area: manages the teams, and gives reward in case of winning
+
+
+Fight flow:
+
+    One from each team each time (starting by random team)
+    If a team has less fighters, the rest of the other team fighters will act in a row
+    The team that is left without any fighter loses
